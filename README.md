@@ -48,7 +48,7 @@ templates:
     input_columns:
       - "SSM NAME"
       - "EAP CASE REFERENCE NUMBER"
-      - "EAP PLAN ITEM REFERENCE NUMBER"
+      - "NEW EAP START DATE"
       - "ADDITIONAL NOTES (if needed)"
     output_columns:
       - "SSM NAME"
